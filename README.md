@@ -16,7 +16,7 @@ I scraped NSDL’s fortnightly sector AUC data, built a Power BI dashboard, and 
 - `scrape_notebook.ipynb` — code used to scrape + clean the NSDL data.  
 - `FII_investment_fortnightwise.pbix` — interactive Power BI dashboard.
 -  `FII_investment_fortnightwise_dashboard_screenshot.pdf` - this screenshot gives overview of how dashboard look like. 
-- This `README.md` — clear data story and event-linked insights (copy/paste ready).
+- This `README.md` — clear data story and event-linked insights.
 
 ---
 
@@ -74,7 +74,6 @@ Below are the principal events I mapped against the sector flows in the dashboar
 ---
 
 ## Deep insights (data → event → interpretation)
-These are ready-to-use lines you can paste into your project page or resume. They are grounded in the dashboard patterns and event mapping.
 
 ### Telecom anticipates tariffs
 Fortnightly AUC shows strong inflows into Telecom in the 2 months prior to June–July 2024 tariff hikes. This suggests FIIs priced improved ARPU before the public effective date.  
