@@ -15,7 +15,7 @@ I scraped NSDL’s fortnightly sector AUC data, built a Power BI dashboard, and 
 - `nsdl_sectorwise_auc.csv` — cleaned fortnightly AUC by sector.  
 - `scrape_notebook.ipynb` — code used to scrape + clean the NSDL data.  
 - `FII_investment_fortnightwise.pbix` — interactive Power BI dashboard.
--  `FII_investment_fortnightwise_dashboard_screenshot.pdf` - this screenshot gives overview of how dashboard look like. 
+-  `FII_investment_fortnightwise_dashboard_screenshot.pdf` - this screenshot gives an overview of how the dashboard looks. 
 - This `README.md` — clear data story and event-linked insights.
 
 ---
